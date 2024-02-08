@@ -22,4 +22,7 @@ The automation testing project "CURA Healthcare Service" involves several steps 
 10. Upon reaching 90% project completion, generate a comprehensive report and send it via email to the designated host and username along with the port information.
 
 Demo Link
-https://drive.google.com/drive/folders/1kX-dv0EFC6RWAGY9KXwJTCshxVMoeIcf?usp=drive_link
+
+1. https://drive.google.com/drive/folders/1kX-dv0EFC6RWAGY9KXwJTCshxVMoeIcf?usp=drive_link
+
+2. https://youtu.be/aAXzExd58S0
