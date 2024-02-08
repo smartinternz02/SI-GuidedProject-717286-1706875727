@@ -20,3 +20,6 @@ The automation testing project "CURA Healthcare Service" involves several steps 
 9. Continuously update GitHub with any new developments and include a report generated from Katalon Studio.
 
 10. Upon reaching 90% project completion, generate a comprehensive report and send it via email to the designated host and username along with the port information.
+
+Demo Link
+https://drive.google.com/drive/folders/1kX-dv0EFC6RWAGY9KXwJTCshxVMoeIcf?usp=drive_link
