@@ -1,4 +1,4 @@
-##Katalon_CURA_Healthcare_project
+##Katalon_CURA_Healthcare_project##
 The automation testing project "CURA Healthcare Service" involves several steps to ensure its successful implementation using the Katalon Studio tool:
 
 Develop a test plan outlining the project's objectives and testing approach.
